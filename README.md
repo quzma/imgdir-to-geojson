@@ -2,7 +2,9 @@ imgdir-to-geojson
 =================
 
 .: Image directory to Geojson :.
+
 Author	.: ivo.kuzmanovic@gmail.com
+
 Date	.: April 27, 2012
 
 =================
@@ -20,6 +22,7 @@ Date	.: April 27, 2012
 *	Example usage: 
 		$ python imgdir2geojson.py /home/ivok/Pictures/
 
+*	IMPORTANT: make a backup of your files before processing them. nothing should go wrong, but anyway.
 =================
 
 Have a nice day! :.
