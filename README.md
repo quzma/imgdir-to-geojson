@@ -13,8 +13,7 @@ Date	.: April 27, 2012
 *	File can that can be used as a source for a vector layer
 
 *	Besides coordinates, attribute properties added are:	
-		- full path to file (full_path)
-		- file name (file_name)
+		full path to file (full_path) and file name (file_name)
 
 *	Pyexif.py is courtesy of: http://code.google.com/p/pexif/ (with slight modifications)
 
